@@ -18,6 +18,7 @@ nala install sox mpv -y
 nala install cowsay ruby -y
 nala install binutils zip unzip -y
 gem install lolcat
-git clone https://github.com/Galirus404/TOOLSV5
+git clone https://github.com/Lubebansokhekel/Lubeban
 cd TOOLSV5
+# Lubeban
 # Lubeban

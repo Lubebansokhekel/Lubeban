@@ -20,5 +20,3 @@ nala install binutils zip unzip -y
 gem install lolcat
 git clone https://github.com/Lubebansokhekel/Lubeban
 cd TOOLSV5
-# Lubeban
-# Lubeban
